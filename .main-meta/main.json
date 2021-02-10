@@ -4,27 +4,27 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-spi-mplab-mcc",
-        "version": "",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "Getting Started with Serial Peripheral Interface (SPI)",
         "projectName": "avr128da48-getting-started-with-spi-mplab-mcc",
-        "shortDescription": "",
+        "shortDescription": "This repository contains examples of MCC generated source code for Serial Peripheral Interface (SPI) as described in TB3215-Getting Started with Serial Peripheral Interface (SPI) document.",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ""
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
 			{
 				"name": "XC8",
-				"semverRange": ""
+				"semverRange": "^2.30.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx",
+            "semverRange": "1.4.75"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": "4.0.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,16 +32,24 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
         "subcategories": [
+            [
+                "Peripherals",
+                "SPI"
+            ]
         ],
         "peripherals": [
+            "SPI"
         ],
         "keywords": [
+            "Getting Started",
+            "Interrupts",
+            "Data Transfer",
+            "Serial Communication"
         ],
 		"additionalData": {
 			"longDescription": {
