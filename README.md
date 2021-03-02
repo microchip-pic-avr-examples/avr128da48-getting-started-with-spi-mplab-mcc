@@ -2,7 +2,7 @@
 
 # Getting Started with Serial Peripheral Interface (SPI) Examples (MPLAB® X)
 
-This repository contains examples of MCC generated source code for Serial Peripheral Interface (SPI) as described in [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/AppNotes/TB3215-Getting-Started-with-SPI-90003215A.pdf) document from Microchip. The repository contains three MPLAB X projects inside:
+This repository contains examples of MCC generated source code for Serial Peripheral Interface (SPI) as described in [TB3215 - Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/Appnotes/TB3215-Getting-Started-with-SPI-DS90003215.pdf) document from Microchip. The repository contains three MPLAB X projects inside:
 
 * [<strong>Sending Data as Host:</strong>](Sending_Data_as_Host) This example demonstrates how to configure the device in SPI Host mode and send dummy data (value 0) (for more details, see [<strong>Sending Data as Host</strong>](Sending_Data_as_Host)).
 * [<strong>Receiving Data as Client:</strong>](Receiving_Data_as_Client) This example illustrates how to configure the device in SPI Client mode and how to receive data from an SPI host device, using the SPI interrupt (for more details, [<strong>see Receiving Data as Client</strong>](Receiving_Data_as_Client)).
@@ -10,7 +10,7 @@ This repository contains examples of MCC generated source code for Serial Periph
 
 ## Related Documentation
 More details and code examples on the AVR128DA48 can be found at the following links:
-- [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/AppNotes/TB3215-Getting-Started-with-SPI-90003215A.pdf)
+- [TB3215 - Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/Appnotes/TB3215-Getting-Started-with-SPI-DS90003215.pdf)
 - [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)

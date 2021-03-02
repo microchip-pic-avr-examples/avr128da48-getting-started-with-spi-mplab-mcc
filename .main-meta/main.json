@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-spi-mplab-mcc",
-        "version": "1.0.0",
+        "version": "1.0.1",
         "displayName": "Getting Started with Serial Peripheral Interface (SPI)",
         "projectName": "avr128da48-getting-started-with-spi-mplab-mcc",
         "shortDescription": "This repository contains examples of MCC generated source code for Serial Peripheral Interface (SPI) as described in TB3215-Getting Started with Serial Peripheral Interface (SPI) document.",
